@@ -3,9 +3,8 @@ const members = [
     id: 1, 
     name: "FANTASTIC", 
     profileImgs: [
-      "images/liyu8.jpg", 
-      "images/liyu9.jpg", 
-      "images/liyu7.jpg"
+      "images/tic8.jpg", 
+      "images/tic9.jpg"
     ], 
     detailImg: "images/tic-pro1.jpg", 
     bio: "아틱이가 생각한 아틱이의 이미지는 귀엽고 멋있어!" 
@@ -14,9 +13,9 @@ const members = [
     id: 2, 
     name: "DRAMATIC", 
     profileImgs: [
-      "images/liyu44.jpg", 
-      "images/liyu45.jpg", 
-      "images/liyu46.jpg"
+      "images/tic9.jpg", 
+      "images/tic10.jpg", 
+      "images/tic11.jpg"
     ], 
     detailImg: "images/tic-pro2.jpg", 
     bio: "아틱이가 연습하며 생긴 습관은 연습하기 전에 다리 찢기" 
@@ -25,8 +24,8 @@ const members = [
     id: 3, 
     name: "ENERGETIC", 
     profileImgs: [
-      "images/liyu40.jpg", 
-      "images/liyu39.jpg"
+      "images/tic12.jpg", 
+      "images/tic13.jpg"
     ], 
     detailImg: "images/tic-pro3.jpg", 
     bio: "아틱이가 도전하고 싶은 무대 컨셉은 섹시하고 멋있는 컨셉" 
@@ -35,8 +34,8 @@ const members = [
     id: 4, 
     name: "ARCTIC", 
     profileImgs: [
-      "images/liyu32.jpg", 
-      "images/liyu33.jpg"
+      "images/tic5.jpg", 
+      "images/tic6.jpg"
     ], 
     detailImg: "images/tic-pro4.jpg", 
     bio: "아틱이의 최대 강점은 춤!" 
@@ -45,8 +44,8 @@ const members = [
     id: 5, 
     name: "LET'S", 
     profileImgs: [
-      "images/liyu35.jpg", 
-      "images/liyu34.jpg"
+      "images/tic1.jpg", 
+      "images/tic2.jpg"
     ], 
     detailImg: "images/tic-pro5.jpg", 
     bio: "밝은 에너지로 행복을 전달해 드릴게요!" 
@@ -55,9 +54,7 @@ const members = [
     id: 6, 
     name: "GO", 
     profileImgs: [
-      "images/liyu22.jpg", 
-      "images/liyu23.jpg",
-      "images/liyu24.jpg"
+      "images/tic16.jpg"
     ], 
     detailImg: "images/tic-pro6.jpg", 
     bio: "과거 지원서 쓰던 아틱이에게 한마디 계속 도전해서 잘 했어!" 
@@ -66,8 +63,8 @@ const members = [
     id: 7, 
     name: "#ENERGETIC ARCTIC", 
     profileImgs: [
-      "images/liyu17.jpg", 
-      "images/liyu18.jpg"
+      "images/tic12.jpg", 
+      "images/tic13.jpg"
     ], 
     detailImg: "images/tic-pro7.jpg", 
     bio: "지금 아틱이에게 힘이 되는 한마디는 계속 화이팅해서 좋은 결과 나오길 바라요" 
@@ -76,8 +73,8 @@ const members = [
     id: 8, 
     name: "#BANGKOK CITY BOY", 
     profileImgs: [
-      "images/liyu31.jpg", 
-      "images/liyu30.jpg"
+      "images/tic14.jpg", 
+      "images/tic15.jpg"
     ], 
     detailImg: "images/tic-pro8.jpg", 
     bio: "미래 파이널을 앞둔 아틱이에게 한마디 데뷔하자!" 
@@ -86,8 +83,7 @@ const members = [
     id: 9, 
     name: "#큐티 아틱", 
     profileImgs: [
-      "images/liyu16.jpg", 
-      "images/liyu15.jpg"
+      "images/tic18.jpg"
     ], 
     detailImg: "images/tic-pro9.jpg", 
     bio: "저만의 매력과 밝은 에너지를 보여드리겠습니다." 
