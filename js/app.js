@@ -7,7 +7,7 @@ const members = [
       "images/liyu9.jpg", 
       "images/liyu7.jpg"
     ], 
-    detailImg: "images/liyu-pro1.jpg", 
+    detailImg: "images/tic-pro1.jpg", 
     bio: "아틱이가 생각한 아틱이의 이미지는 귀엽고 멋있어!" 
   },
   { 
@@ -18,7 +18,7 @@ const members = [
       "images/liyu45.jpg", 
       "images/liyu46.jpg"
     ], 
-    detailImg: "images/liyu-pro2.jpg", 
+    detailImg: "images/tic-pro2.jpg", 
     bio: "아틱이가 연습하며 생긴 습관은 연습하기 전에 다리 찢기" 
   },
   { 
@@ -28,7 +28,7 @@ const members = [
       "images/liyu40.jpg", 
       "images/liyu39.jpg"
     ], 
-    detailImg: "images/liyu-pro3.jpg", 
+    detailImg: "images/tic-pro3.jpg", 
     bio: "아틱이가 도전하고 싶은 무대 컨셉은 섹시하고 멋있는 컨셉" 
   },
   { 
@@ -38,7 +38,7 @@ const members = [
       "images/liyu32.jpg", 
       "images/liyu33.jpg"
     ], 
-    detailImg: "images/liyu-pro4.jpg", 
+    detailImg: "images/tic-pro4.jpg", 
     bio: "아틱이의 최대 강점은 춤!" 
   },
   { 
@@ -48,7 +48,7 @@ const members = [
       "images/liyu35.jpg", 
       "images/liyu34.jpg"
     ], 
-    detailImg: "images/liyu-pro5.jpg", 
+    detailImg: "images/tic-pro5.jpg", 
     bio: "밝은 에너지로 행복을 전달해 드릴게요!" 
   },
   { 
@@ -59,7 +59,7 @@ const members = [
       "images/liyu23.jpg",
       "images/liyu24.jpg"
     ], 
-    detailImg: "images/liyu-pro6.jpg", 
+    detailImg: "images/tic-pro6.jpg", 
     bio: "과거 지원서 쓰던 아틱이에게 한마디 계속 도전해서 잘 했어!" 
   },
   { 
@@ -69,7 +69,7 @@ const members = [
       "images/liyu17.jpg", 
       "images/liyu18.jpg"
     ], 
-    detailImg: "images/liyu-pro7.jpg", 
+    detailImg: "images/tic-pro7.jpg", 
     bio: "지금 아틱이에게 힘이 되는 한마디는 계속 화이팅해서 좋은 결과 나오길 바라요" 
   },
   { 
@@ -79,7 +79,7 @@ const members = [
       "images/liyu31.jpg", 
       "images/liyu30.jpg"
     ], 
-    detailImg: "images/liyu-pro8.jpg", 
+    detailImg: "images/tic-pro8.jpg", 
     bio: "미래 파이널을 앞둔 아틱이에게 한마디 데뷔하자!" 
   },
   { 
@@ -89,8 +89,8 @@ const members = [
       "images/liyu16.jpg", 
       "images/liyu15.jpg"
     ], 
-    detailImg: "images/liyu-pro9.jpg", 
-    bio: "베스트 초이스 리부초이 놓치지 마세요!" 
+    detailImg: "images/tic-pro9.jpg", 
+    bio: "저만의 매력과 밝은 에너지를 보여드리겠습니다." 
   }
 ];
 
