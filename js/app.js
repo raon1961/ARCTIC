@@ -3,8 +3,8 @@ const members = [
     id: 1, 
     name: "FANTASTIC", 
     profileImgs: [
-      "images/tic8.jpg", 
-      "images/tic9.jpg"
+      "images/tic7.jpg", 
+      "images/tic8.jpg"
     ], 
     detailImg: "images/tic-pro1.jpg", 
     bio: "아틱이가 생각한 아틱이의 이미지는 귀엽고 멋있어!" 
