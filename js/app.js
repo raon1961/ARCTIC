@@ -56,7 +56,7 @@ const members = [
     profileImgs: [
       "images/tic16.jpg"
     ], 
-    detailImg: "images/tic-pro6.jpg", 
+    detailImg: "images/tic.gif", 
     bio: "과거 지원서 쓰던 아틱이에게 한마디 계속 도전해서 잘 했어!" 
   },
   { 
